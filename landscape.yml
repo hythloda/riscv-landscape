@@ -486,6 +486,13 @@ landscape:
             extra:
               hide_license: 'true'
           - item:
+            name: Douyin Vision Co., Ltd (member)
+            homepage_url: https://www.bytedance.com/
+            logo: ByteDance.svg
+            crunchbase: https://www.crunchbase.com/organization/bytedance
+            extra:
+              hide_license: 'true'
+          - item:
             name: Draper (member)
             homepage_url: https://www.draper.com/
             logo: Draper.svg
@@ -716,6 +723,13 @@ landscape:
             homepage_url: https://www.crunchbase.com/organization/krutrim-si-designs
             logo: Krutrim SI Designs.svg
             crunchbase: https://www.crunchbase.com/organization/krutrim-si-designs
+            extra:
+              hide_license: 'true'
+          - item:
+            name: Kubuds (member)
+            homepage_url: https://kubuds.io/
+            logo: kubuds.svg
+            crunchbase: https://www.crunchbase.com/organization/kubuds
             extra:
               hide_license: 'true'
           - item:
@@ -957,6 +971,13 @@ landscape:
             extra:
               hide_license: 'true'
           - item:
+            name: Quintauris GmbH (member)
+            homepage_url: https://www.quintauris.eu/
+            logo: quintauris-gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/quintauris
+            extra:
+              hide_license: 'true'
+          - item:
             name: Rambus (member)
             homepage_url: https://www.rambus.com/
             logo: Rambus-founding.svg
@@ -1117,14 +1138,14 @@ landscape:
               hide_license: 'true'
           - item:
             name: Siemens EDA (member)
+            description: Siemens provides RISC-V trace and debug solutions as part of the Tessent Embedded Analytics portfolio
             homepage_url: https://www.siemens.com/tessent-embedded-analytics
             logo: Siemens.svg
+            twitter: https://twitter.com/siemenssoftware
             crunchbase: https://www.crunchbase.com/organization/siemens
             extra:
               LinkedIn: https://linkedin.com/showcase/Tessent-solutions/
               hide_license: 'true'
-            description: Siemens provides RISC-V trace and debug solutions as part of the Tessent Embedded Analytics portfolio
-            twitter: https://twitter.com/siemenssoftware
           - item:
             name: Signaloid (member)
             homepage_url: https://signaloid.com/
@@ -1422,27 +1443,6 @@ landscape:
             homepage_url: https://www.zeropoint-tech.com/
             logo: ZeroPoint.svg
             crunchbase: https://www.crunchbase.com/organization/zeropoint-technologies-ab
-            extra:
-              hide_license: 'true'
-          - item:
-            name: Kubuds (member)
-            homepage_url: https://kubuds.io/
-            logo: kubuds.svg
-            crunchbase: https://www.crunchbase.com/organization/kubuds
-            extra:
-              hide_license: 'true'
-          - item:
-            name: Quintauris GmbH (member)
-            homepage_url: https://www.quintauris.eu/
-            logo: quintauris-gmbh.svg
-            crunchbase: https://www.crunchbase.com/organization/quintauris
-            extra:
-              hide_license: 'true'
-          - item:
-            name: Douyin Vision Co., Ltd (member)
-            homepage_url: https://www.bytedance.com/
-            logo: ByteDance.svg
-            crunchbase: https://www.crunchbase.com/organization/bytedance
             extra:
               hide_license: 'true'
       - subcategory:
@@ -1817,6 +1817,13 @@ landscape:
             extra:
               hide_license: 'true'
           - item:
+            name: Research Institutes of Sweden (member)
+            homepage_url: https://www.ri.se/sv
+            logo: rise.svg
+            crunchbase: https://www.crunchbase.com/organization/rise-8
+            extra:
+              hide_license: 'true'
+          - item:
             name: Ukrainian Catholic University (member)
             homepage_url: https://ucu.edu.ua/en/
             logo: ukrainian-catholic-university.svg
@@ -1846,13 +1853,6 @@ landscape:
             homepage_url: https://www.zephyrproject.org/
             logo: zephyr.svg
             crunchbase: https://www.crunchbase.com/organization/zephy-project
-            extra:
-              hide_license: 'true'
-          - item:
-            name: Research Institutes of Sweden (member)
-            homepage_url: https://www.ri.se/sv
-            logo: rise.svg
-            crunchbase: https://www.crunchbase.com/organization/rise-8
             extra:
               hide_license: 'true'
   - category:
@@ -2998,14 +2998,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/scaleway
           - item:
             name: Siemens EDA
+            second_path: Design Tools, Compilers and Verification / Design Tools, Compilers and Verification
+            description: Siemens provides RISC-V trace and debug solutions as part of the Tessent Embedded Analytics portfolio
             homepage_url: https://www.siemens.com/tessent-embedded-analytics
             logo: Siemens.svg
+            twitter: https://twitter.com/siemenssoftware
             crunchbase: https://www.crunchbase.com/organization/siemens
             extra:
               LinkedIn: https://linkedin.com/showcase/Tessent-solutions/
-            description: Siemens provides RISC-V trace and debug solutions as part of the Tessent Embedded Analytics portfolio
-            second_path: Design Tools, Compilers and Verification / Design Tools, Compilers and Verification
-            twitter: https://twitter.com/siemenssoftware
   - category:
     name: RISC-V Programs
     subcategories:
