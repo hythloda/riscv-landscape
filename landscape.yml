@@ -15,7 +15,17 @@ landscape:
     name: RISC-V Members
     subcategories:
       - subcategory:
-        name: Premier
+        name: Premier 250k
+        items:
+          - item:
+            name: Akeana (member)
+            homepage_url: https://akeana.io/
+            logo: AKEANA.svg
+            crunchbase: https://www.crunchbase.com/organization/akeana
+            extra:
+              hide_license: 'true'
+      - subcategory:
+        name: Premier 100k
         items:
           - item:
             name: Akeana (member)
