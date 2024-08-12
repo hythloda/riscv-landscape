@@ -2,10 +2,10 @@
 landscapeName: RISC-V 
 # Update with your membership structure
 landscapeMemberClasses:
-  - name: Premier Membership
-    category: Premier 250k
-  - name: Premier Membership
-    category: Premier 100k
+  - name: Premier 250k
+    category: Premier
+  - name: Premier 100k
+    category: Premier 
   - name: Strategic Membership
     category: Strategic
   - name: Community Membership
