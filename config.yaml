@@ -8,6 +8,8 @@ landscapeMemberClasses:
     category: Premier 
   - name: Strategic Membership
     category: Strategic
+  - name: Start-up Strategic Membership
+    category: Strategic    
   - name: Community Membership
     category: Community
 # SF Project record ID for your project
