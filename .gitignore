@@ -1,6 +1,7 @@
 logs
 *.log*
-
+build
+missing.csv
 # Runtime data
 pids
 *.pid
